@@ -202,7 +202,7 @@ translate deutsch d14s13_f840e339:
 translate deutsch d14s13_d67d5397:
 
     # mc "Well, the first thing we wanted to do was get a place where we could at the very least talk in peace."
-    mc "Naja, als erstes brauchcen wir einen Platz, wo wir in aller Ruhe reden können."
+    mc "Naja, als erstes brauchen wir einen Platz, wo wir in aller Ruhe reden können."
 
 # game/code/d14p2/d14s13.rpy:78
 translate deutsch d14s13_f1cb5078:
